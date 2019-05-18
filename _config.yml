@@ -32,7 +32,7 @@ urls:
       url: /about/
 
 url: "https://spr1ngd.github.io"
-baseurl: ""
+baseurl: "https://spr1ngd.github.io"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
