@@ -1,7 +1,7 @@
 title: blog of springdong
 description: personal blog
 author: Springdong
-github: https://github.com/springd5211
+github: https://github.com/spr1ngd
 about: 就职于Uinnova，工作内容IOT可视化平台开发
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
@@ -17,7 +17,7 @@ collections:
 
 social:
     - icon: fa-github
-      link: "https://github.com/springd5211"
+      link: "https://github.com/spr1ngd"
 
 share:
   twitter_username: 
@@ -31,7 +31,7 @@ urls:
     - text: About Me
       url: /about/
 
-url: "https://springd5211.github.io"
+url: "https://spr1ngd.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
